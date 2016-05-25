@@ -1,5 +1,8 @@
-title: Acosta Jesus
-purpose: []
+name: iBegin
+favicon: null
+layout_spectrum: 0.73248
+typography_spectrum: 0.5429646
+title: Jesús Acosta
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 1
-  rhythmicContrast: 0.25
   brandColors:
     - '#000000'
     - '#c8c8c8'
     - '#18403e'
     - '#ffffff'
     - '#377e6a'
+  brandStrength: 1
   lightness: 0.3125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: iBegin
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5429646
-layout_spectrum: 0.73248
+  saturation: 0.6875
+  rhythmicContrast: 0.25
+purpose: []
