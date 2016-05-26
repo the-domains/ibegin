@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'iBegin here....iMeet and iConnect. iAm into Green Energy, High-Tech, Science, Religion, Astronomy, Humanities and more. I am an IT, Artist, Designer, Adventurer, Web Guru, Consultant. Always for Innovation and Transcendence.'
-datePublished: '2016-05-26T00:05:05.627Z'
-dateModified: '2016-05-26T00:03:46.630Z'
+datePublished: '2016-05-26T00:36:34.451Z'
+dateModified: '2016-05-26T00:36:03.816Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-ibegin-herewhere-the-imeet-you-and-iconnect.md
